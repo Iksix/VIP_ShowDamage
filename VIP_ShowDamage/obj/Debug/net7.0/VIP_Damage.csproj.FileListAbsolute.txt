@@ -1,0 +1,16 @@
+D:\__plgns\VIP_Damage\VIP_Damage\obj\Debug\net7.0\VIP_Damage.csproj.AssemblyReference.cache
+D:\__plgns\VIP_Damage\VIP_Damage\obj\Debug\net7.0\VIP_Damage.GeneratedMSBuildEditorConfig.editorconfig
+D:\__plgns\VIP_Damage\VIP_Damage\obj\Debug\net7.0\VIP_Damage.AssemblyInfoInputs.cache
+D:\__plgns\VIP_Damage\VIP_Damage\obj\Debug\net7.0\VIP_Damage.AssemblyInfo.cs
+D:\__plgns\VIP_Damage\VIP_Damage\obj\Debug\net7.0\VIP_Damage.csproj.CoreCompileInputs.cache
+D:\__plgns\VIP_Damage\VIP_Damage\bin\Debug\net7.0\VIP_Damage.deps.json
+D:\__plgns\VIP_Damage\VIP_Damage\bin\Debug\net7.0\VIP_Damage.dll
+D:\__plgns\VIP_Damage\VIP_Damage\bin\Debug\net7.0\VIP_Damage.pdb
+D:\__plgns\VIP_Damage\VIP_Damage\bin\Debug\net7.0\Modularity.dll
+D:\__plgns\VIP_Damage\VIP_Damage\bin\Debug\net7.0\VipCoreApi.dll
+D:\__plgns\VIP_Damage\VIP_Damage\obj\Debug\net7.0\VIP_Damage.csproj.CopyComplete
+D:\__plgns\VIP_Damage\VIP_Damage\obj\Debug\net7.0\VIP_Damage.dll
+D:\__plgns\VIP_Damage\VIP_Damage\obj\Debug\net7.0\refint\VIP_Damage.dll
+D:\__plgns\VIP_Damage\VIP_Damage\obj\Debug\net7.0\VIP_Damage.pdb
+D:\__plgns\VIP_Damage\VIP_Damage\obj\Debug\net7.0\ref\VIP_Damage.dll
+D:\__plgns\VIP_Damage\VIP_Damage\bin\Debug\net7.0\CounterStrikeSharp.API.dll
