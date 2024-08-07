@@ -1,8 +1,6 @@
 D:\__plgns\VIP_Damage\VIP_ShowDamage\bin\Debug\net7.0\VIP_ShowDamage.deps.json
 D:\__plgns\VIP_Damage\VIP_ShowDamage\bin\Debug\net7.0\VIP_ShowDamage.dll
 D:\__plgns\VIP_Damage\VIP_ShowDamage\bin\Debug\net7.0\VIP_ShowDamage.pdb
-D:\__plgns\VIP_Damage\VIP_ShowDamage\bin\Debug\net7.0\CounterStrikeSharp.API.dll
-D:\__plgns\VIP_Damage\VIP_ShowDamage\bin\Debug\net7.0\Modularity.dll
 D:\__plgns\VIP_Damage\VIP_ShowDamage\bin\Debug\net7.0\VipCoreApi.dll
 D:\__plgns\VIP_Damage\VIP_ShowDamage\obj\Debug\net7.0\VIP_ShowDamage.csproj.AssemblyReference.cache
 D:\__plgns\VIP_Damage\VIP_ShowDamage\obj\Debug\net7.0\VIP_ShowDamage.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +12,4 @@ D:\__plgns\VIP_Damage\VIP_ShowDamage\obj\Debug\net7.0\VIP_ShowDamage.dll
 D:\__plgns\VIP_Damage\VIP_ShowDamage\obj\Debug\net7.0\refint\VIP_ShowDamage.dll
 D:\__plgns\VIP_Damage\VIP_ShowDamage\obj\Debug\net7.0\VIP_ShowDamage.pdb
 D:\__plgns\VIP_Damage\VIP_ShowDamage\obj\Debug\net7.0\ref\VIP_ShowDamage.dll
+D:\__plgns\VIP_Damage\VIP_ShowDamage\bin\Debug\net7.0\VipCoreApi.pdb

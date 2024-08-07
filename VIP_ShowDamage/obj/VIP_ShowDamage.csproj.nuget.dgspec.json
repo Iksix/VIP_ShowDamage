@@ -10,16 +10,18 @@
         "projectUniqueName": "D:\\__plgns\\VIP_Damage\\VIP_ShowDamage\\VIP_ShowDamage.csproj",
         "projectName": "VIP_ShowDamage",
         "projectPath": "D:\\__plgns\\VIP_Damage\\VIP_ShowDamage\\VIP_ShowDamage.csproj",
-        "packagesPath": "C:\\Users\\iks\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Iks\\.nuget\\packages\\",
         "outputPath": "D:\\__plgns\\VIP_Damage\\VIP_ShowDamage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\iks\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Iks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,6 +39,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "CounterStrikeSharp.API": {
+              "target": "Package",
+              "version": "[1.0.188, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

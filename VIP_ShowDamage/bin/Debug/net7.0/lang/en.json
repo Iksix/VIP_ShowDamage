@@ -1,0 +1,3 @@
+{
+    "ShowDamageMsg" : "<font color='Lime'>Нанесён урон по игроку</font> <font color='Cyan'>{name}</font> <br> <font color='Crimson'>Урон:</font> <font color='red'>{damage}♥</font>"
+}
